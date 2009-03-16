@@ -6,7 +6,6 @@ set ai			" always set autoindenting on
 set si
 set ts=4
 set shiftwidth=4
-set hlsearch
 syntax on
 
 set t_Co=256
