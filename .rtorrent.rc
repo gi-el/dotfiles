@@ -1,0 +1,8 @@
+# ip = ms29i.ath.cx
+port_range = 50000-50000
+check_hash = yes
+session = ~/.rtorrent
+encryption = allow_incoming,try_outgoing,require_RC4,require
+peer_exchange = yes
+upload_rate = 400
+
