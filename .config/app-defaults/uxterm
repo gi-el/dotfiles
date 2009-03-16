@@ -1,0 +1,15 @@
+UXTerm*metaSendsEscape: true
+UXTerm*utf8: true
+UXTerm*locale: on
+
+UXTerm*saveLines: 65535
+UXTerm*scrollBar: false
+
+UXTerm*colorMode: on
+UXTerm*boldColors: on
+UXTerm*dynamicColors: on
+
+UXTerm*highlightSelection: true
+
+UXTerm*cursorColor: #ffffff
+*customization: -color

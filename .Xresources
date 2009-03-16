@@ -1,0 +1,7 @@
+! Main Xresources file, includes application-specific resources to keep
+! everything organized.
+
+#include ".config/app-defaults/xft"
+#include ".config/app-defaults/uxterm"
+#include ".config/app-defaults/vt100"
+#include ".config/app-defaults/cursor"
