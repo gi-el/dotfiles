@@ -9,11 +9,11 @@ WMII="`which wmii 2> /dev/null`"
 FAILSAFE="xterm -geometry 80x24-0-0"
 
 if [ -n "$AWESOME" ]; then
-	WINDOW_MANAGER="$AWESOME 
+	WINDOW_MANAGER="$AWESOME"
 elif [ -n "$WMII" ]; then
-	WINDOW_MANAGER=$WMII
+	WINDOW_MANAGER="$WMII"
 else
-	WINDOW_MANAGER=$FAILSAFE
+	WINDOW_MANAGER="$FAILSAFE"
 fi
 
 if [ -x "$SETTINGS_MANAGER" ]; then
