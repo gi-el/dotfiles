@@ -1,3 +1,7 @@
 [user]
 	name = Giel de Nijs
 	email = giel@caffeinetrip.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
